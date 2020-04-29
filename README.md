@@ -1,1 +1,2 @@
 # notso-triangulated
+![](./screenshot.png)
